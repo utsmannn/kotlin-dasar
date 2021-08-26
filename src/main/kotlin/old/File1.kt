@@ -1,3 +1,5 @@
+package old
+
 class File1 {
 
     var inner: Innerclass1? = null

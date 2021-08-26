@@ -1,3 +1,5 @@
+package old
+
 fun main(args: Array<String>) {
 
     val array = Array(4) { index ->
